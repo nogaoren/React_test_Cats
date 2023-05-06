@@ -1,0 +1,7 @@
+.CatsCards {
+	
+}
+
+.CatsCards .centerRow{
+    flex-wrap: wrap;
+}
